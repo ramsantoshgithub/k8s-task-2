@@ -1,0 +1,7 @@
+static/secret.yml
+dynamic/secret.yml
+
+
+.env
+*.log
+.DS_Store
